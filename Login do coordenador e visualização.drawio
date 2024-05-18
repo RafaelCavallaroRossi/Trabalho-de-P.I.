@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-05-17T23:59:15.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.4" etag="3Je5nbtg59O9ntfiZXTA" type="device">
+  <diagram id="pLQonbnIPcCyQV8q0psO" name="Página-1">
+    <mxGraphModel dx="1941" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZ9cuhLI6rXzPgAa86yk-1" target="JZ9cuhLI6rXzPgAa86yk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZ9cuhLI6rXzPgAa86yk-2" target="JZ9cuhLI6rXzPgAa86yk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-2" value="Acessar a página de login do sistema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZ9cuhLI6rXzPgAa86yk-4" target="JZ9cuhLI6rXzPgAa86yk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-4" value="Inserir dados cadastrais&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZ9cuhLI6rXzPgAa86yk-6" target="JZ9cuhLI6rXzPgAa86yk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-6" value="sistema confere os dados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZ9cuhLI6rXzPgAa86yk-8" target="JZ9cuhLI6rXzPgAa86yk-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZ9cuhLI6rXzPgAa86yk-8" target="JZ9cuhLI6rXzPgAa86yk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="135" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZ9cuhLI6rXzPgAa86yk-10" target="JZ9cuhLI6rXzPgAa86yk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-10" value="Mensagem de erro, solicitar repreenchimento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZ9cuhLI6rXzPgAa86yk-13" target="JZ9cuhLI6rXzPgAa86yk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-13" value="Direcionado à página principal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZ9cuhLI6rXzPgAa86yk-15" target="JZ9cuhLI6rXzPgAa86yk-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-15" value="Acessar página para visualizar justificativa de faltas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZ9cuhLI6rXzPgAa86yk-17" target="JZ9cuhLI6rXzPgAa86yk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-17" value="Sistema disponibiliza o download de arquivo dos docentes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="305" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JZ9cuhLI6rXzPgAa86yk-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="355" y="310" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
